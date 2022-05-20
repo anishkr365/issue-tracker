@@ -1,7 +1,7 @@
 # ISSUE TRACKER
 A web based App to tack the issues in project. 
 
-Hosted Link :- https://saurabh-issue-tracker.herokuapp.com/
+Hosted Link :- https://anish-issuetracker-proj.herokuapp.com/
 
 ### Tech/Framework used
 - ExpressJS
